@@ -1,6 +1,6 @@
-# These queries and steps aim to clean, standardize, and analyze the travel data to derive meaningful 
-business insights, such as popular destinations, seasonal travel trends, transportation preferences,
-and spending habits by nationality and age group.
+-- These queries and steps aim to clean, standardize, and analyze the travel data to derive meaningful 
+-- business insights, such as popular destinations, seasonal travel trends, transportation preferences,
+-- and spending habits by nationality and age group.
 
 -- Selecting all data from the travel_data table
 SELECT *
