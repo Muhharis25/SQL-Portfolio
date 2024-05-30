@@ -1,61 +1,62 @@
-**Cleaning Data**
+-**Cleaning Data**
 
-##Initial Queries:
+**1. Initial Queries:**
 Display the entire dataset and unique retailer names to understand data composition.
 
-##Table Duplication:
+**2. Table Duplication:**
 Create a new table data_sales1 to preserve the original data during manipulation.
 
-##Date Conversion:
+**3. Date Conversion:**
 Convert invoice dates from string format to a date format for better manipulation and analysis.
 
-#Standardizing
+-**Standardizing**
 
-##Column Name Standardization:
+**1. Column Name Standardization:**
 Renames columns to remove spaces and standardize naming conventions for easier SQL handling.
 
-#Data Type Correction
+-**Data Type Correction**
 
-##Data Type Conversion:
+**1. Data Type Conversion:**
 Corrects the data types of several columns, such as converting invoice dates to the DATE type and financial figures from strings to integers after cleaning out unwanted characters like commas and dollar signs.
 Handling Missing Values
 
-##Identify Nulls and Blanks:
+**2. Identify Nulls and Blanks:**
 Identify and remove rows with critical missing data to ensure data integrity.
 
-##Derived Calculations:
+**3. Derived Calculations:**
 Updates incorrect or missing price per unit values using the total sales and units sold data.
 
-#Deduplication
+-**Deduplication**
 
-##Duplicate Detection and Removal: 
+**1. Duplicate Detection and Removal:**
 Checks for and removes duplicate records to ensure each entry is unique.
 Enhancements
 
-##Adding Time Dimensions:
+**2. Adding Time Dimensions:**
 Enhances the dataset by calculating and adding columns for the year, month, and season based on invoice dates. This categorization aids in time-based analysis.
 
-#Growth Analysis
+-**Growth Analysis**
 
-##Seasonal and Yearly Growth:
+**1. Seasonal and Yearly Growth**
 Calculates total sales and growth metrics by seasons and years to identify trends and performance over time.
 
-##Detailed Monthly Analysis:
+**2. Detailed Monthly Analysis:**
 Provides a detailed breakdown of sales by month across two years to compare performance and seasonal impacts.
 
-#Geospatial Analysis
+-**Geospatial Analysis**
 
-##Regional Sales Analysis: Aggregates sales by region and state to pinpoint higher and lower performing areas. Includes top and bottom performers which could influence regional business strategies.
+**1. Regional Sales Analysis:**
+Aggregates sales by region and state to pinpoint higher and lower performing areas. Includes top and bottom performers which could influence regional business strategies.
 
-#Product Analysis
+-**Product Analysis**
 
-##Product Performance:
+**1. Product Performance:**
 Identifies top-selling and highest growth rate products, informing stock and marketing decisions.
 
-##Sales Method Efficiency:
+**2. Sales Method Efficiency:**
 Analyzes sales effectiveness by method (online, in-store, etc.), guiding strategic adjustments in sales approaches.
 
-#Customer Insights
+-**Customer Insights**
 
-##Retailer Analysis:
+**1. Retailer Analysis:**
 Focuses on retailer performance by counting transactions, helping understand retailer influence on sales.
