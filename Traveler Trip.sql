@@ -1,3 +1,5 @@
+-- I acquired this dataset from Kaggle, 'Traveler Trip Dataset'
+
 -- These queries and steps aim to clean, standardize, and analyze the travel data to derive meaningful 
 -- business insights, such as popular destinations, seasonal travel trends, transportation preferences,
 -- and spending habits by nationality and age group.
