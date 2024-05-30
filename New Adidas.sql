@@ -1,5 +1,14 @@
 -- I got the Dataset from Kaggle 'Adidas Sales'
 
+-- These queries and steps aim to clean, standardize, and analyze the Adidas sales data to
+-- derive meaningful business insights. The process includes removing inconsistencies, 
+-- standardizing data formats, correcting errors, and handling duplicates. 
+-- Additional columns for temporal analysis, such as year, month, and season, 
+-- are added to facilitate seasonality analysis. The final dataset allows for in-depth analysis
+-- of sales performance across different seasons, years, regions, and products. Insights are generated on
+-- growth rates, regional sales distribution, product performance, and sales methods,
+-- providing a comprehensive understanding of sales trends and patterns.
+
 # Cleaning Data
 
 /* Displaying entire dataset */
