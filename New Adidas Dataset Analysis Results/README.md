@@ -1,4 +1,4 @@
--**Cleaning Data**
+**-Cleaning Data**
 
 **1. Initial Queries:**
 Display the entire dataset and unique retailer names to understand data composition.
