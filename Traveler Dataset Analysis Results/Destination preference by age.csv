@@ -1,0 +1,53 @@
+Destination_country,Age_group,Total_trips
+Australia,36-45,4
+Australia,26-35,9
+Brazil,36-45,1
+Brazil,26-35,4
+Brazil,18-25,1
+Cambodia,26-35,1
+Canada,36-45,1
+Canada,26-35,1
+Canada,18-25,1
+Egypt,36-45,1
+England,45+,1
+England,36-45,2
+England,26-35,4
+France,45+,2
+France,36-45,2
+France,26-35,8
+France,18-25,3
+Germany,45+,1
+Greece,26-35,2
+Greece,18-25,1
+Hawaii,26-35,1
+Indonesia,36-45,3
+Indonesia,26-35,8
+Indonesia,18-25,1
+Italy,36-45,3
+Italy,26-35,6
+Japan,36-45,1
+Japan,26-35,10
+Japan,18-25,2
+Mexico,36-45,4
+Mexico,26-35,1
+Morocco,26-35,1
+Netherland,36-45,1
+Netherlands,26-35,2
+"New Zealand",36-45,1
+Scotland,26-35,1
+"South Africa",36-45,1
+"South Africa",26-35,3
+"South Korea",26-35,2
+Spain,36-45,1
+Spain,26-35,5
+Spain,18-25,1
+Thailand,36-45,4
+Thailand,26-35,7
+Thailand,18-25,1
+"United Arab Emirates",36-45,1
+"United Arab Emirates",26-35,1
+"United Arab Emirates",18-25,1
+USA,45+,2
+USA,36-45,2
+USA,26-35,7
+USA,18-25,1

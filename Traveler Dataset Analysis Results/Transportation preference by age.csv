@@ -1,0 +1,43 @@
+Age_group,Accommodation_type,Transportation_type,Total_trips,Avg_accommodation_cost,Avg_transportation_cost
+18-25,Airbnb,Flight,3,2433,1233
+18-25,Hotel,Flight,3,1200,700
+18-25,Hostel,Bus,2,450,75
+18-25,Resort,Flight,1,600,700
+18-25,"Vacation rental",Flight,1,1000,800
+18-25,Hostel,Train,1,400,150
+18-25,Airbnb,"Car rental",1,600,300
+18-25,Hotel,Train,1,1400,100
+26-35,Hotel,Flight,21,1952,1071
+26-35,Airbnb,Train,10,1290,328
+26-35,Hostel,Flight,10,380,705
+26-35,Hotel,Train,9,1056,194
+26-35,Resort,Flight,8,1525,875
+26-35,Hotel,"Car rental",5,1100,380
+26-35,Airbnb,Flight,4,725,1100
+26-35,Hostel,Train,3,860,473
+26-35,Airbnb,"Car rental",3,767,217
+26-35,Airbnb,Bus,2,550,75
+26-35,Hostel,Bus,1,150,50
+26-35,Riad,Flight,1,600,400
+26-35,Hostel,Subway,1,500,20
+26-35,"Vacation rental","Car rental",1,800,200
+26-35,"Vacation rental",Flight,1,900,700
+26-35,Guesthouse,Car,1,400,300
+26-35,Villa,"Car rental",1,1500,300
+26-35,Villa,Flight,1,1200,1000
+26-35,Airbnb,Ferry,1,1000,150
+36-45,Hotel,Flight,8,1175,725
+36-45,Hotel,Train,7,1786,514
+36-45,Resort,Flight,5,1700,760
+36-45,Hostel,Flight,2,300,850
+36-45,Hostel,Train,2,250,125
+36-45,Airbnb,Train,2,2400,800
+36-45,Villa,Flight,2,1500,700
+36-45,Hostel,Car,2,2750,2000
+36-45,Airbnb,Flight,1,500,800
+36-45,Airbnb,Bus,1,350,75
+36-45,Hotel,"Car rental",1,1200,200
+45+,Hotel,Flight,3,1367,800
+45+,Airbnb,Train,1,900,100
+45+,Airbnb,"Car rental",1,800,300
+45+,Hotel,Train,1,1200,500

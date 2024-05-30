@@ -1,0 +1,8 @@
+Transportation_type,Count_transportation_mode,Avg_trans_cost
+Flight,75,883
+Train,37,345
+"Car rental",13,296
+Bus,6,71
+Car,3,1433
+Ferry,1,150
+Subway,1,20

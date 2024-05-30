@@ -1,0 +1,64 @@
+Nationality,Accommodation_type,Trips
+American,Hotel,16
+American,Airbnb,3
+American,Hostel,3
+American,Resort,2
+American,"Vacation rental",1
+Australian,Hotel,5
+Australian,Hostel,2
+Australian,Airbnb,1
+Brazilian,Airbnb,2
+Brazilian,Hotel,2
+Brazilian,Hostel,1
+British,Hotel,7
+British,Airbnb,3
+British,Resort,2
+British,Hostel,1
+British,"Vacation rental",1
+Cambodian,Hostel,1
+Canadian,Hotel,6
+Canadian,Airbnb,2
+Canadian,Hostel,2
+Canadian,Resort,1
+Chinese,Airbnb,3
+Chinese,Hostel,2
+Chinese,Resort,2
+Chinese,Hotel,1
+Dutch,Hotel,2
+Emirati,Hotel,2
+Emirati,Resort,1
+French,Hotel,1
+German,Hotel,2
+Greek,Airbnb,1
+"Hong Kong",Hotel,1
+Indian,Hostel,3
+Indian,Airbnb,1
+Indonesian,Villa,1
+Italian,Hotel,2
+Italian,Airbnb,2
+Italian,Hostel,1
+Japanese,Hostel,1
+Japnese,Hotel,1
+Japnese,Hostel,1
+Mexican,Resort,1
+Mexican,Hotel,1
+Moroccan,Riad,1
+"New Zealander",Hotel,1
+Scottish,Hotel,1
+Singaporean,Villa,1
+"South African",Guesthouse,1
+"South African",Hostel,1
+"South Korean",Airbnb,6
+"South Korean",Hotel,5
+"South Korean",Hostel,4
+"South Korean",Villa,2
+"South Korean",Resort,2
+Spanish,Airbnb,4
+Spanish,Resort,1
+Spanish,"Vacation rental",1
+Spanish,Hostel,1
+Spanish,Hotel,1
+Taiwanese,Resort,2
+Taiwanese,Hotel,1
+Vietnamese,Airbnb,2
+Vietnamese,Hotel,1
